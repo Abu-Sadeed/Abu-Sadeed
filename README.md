@@ -15,20 +15,6 @@ A passionate engineer with 4 years of experience building scalable, production-r
 - ⚡ Always keen to learn new tech, build side projects, and explore automation and DevOps practices
 - 👨‍👩‍👧‍👦 Proud family guy & comedy lover
 
----
-
-## 🌟 Featured Projects
-
-- **[ScreenView](#)**  
-  Real-time user tracking and visualization
-
-- **[EShop](#)**  
-  Full-featured e-commerce platform
-
-- **[More projects on my GitHub →](https://github.com/Abu-Sadeed?tab=repositories)**
-
----
-
 ## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
