@@ -1,19 +1,25 @@
 # 👋 Hi there, I'm Abu-Sadeed
 
-**Senior Software Engineer** | Passionate about building scalable, production-ready applications
+**Senior Software Engineer** |
+*Passionate about building scalable, production-ready applications*
 
 ---
 
 ## 🚀 About Me
 
-A passionate engineer with 4 years of experience building scalable, production-ready apps across the stack. I love solving real-world problems with code, optimizing systems, and automating workflows.
+I’m a full-stack engineer with 4 years of experience turning complex ideas into robust, real-world software. My focus?  
+Solving business problems, making apps faster, and automating what most people do by hand.
 
-- 👨‍💻 Full-stack developer specializing in **Spring Boot**, **Node.js (NestJS, Express)**, **Next.js**, and **React.js**
-- 🛠️ Skilled in **PostgreSQL**, **Docker**, **CI/CD**, **DevOps**, and **Tailwind CSS**
-- 🌱 Currently learning **Go** and eager to expand my backend expertise
-- 🤝 Open to collaborating with startups and up-and-coming companies
-- ⚡ Always keen to learn new tech, build side projects, and explore automation and DevOps practices
-- 👨‍👩‍👧‍👦 Proud family guy & comedy lover
+- 👨‍💻 Specializing in **Spring Boot**, **Node.js (NestJS, Express)**, **Next.js**, **React.js**
+- 🛠️ My toolkit: **PostgreSQL**, **Docker**, **Linux**, **CI/CD**, **DevOps**, **Tailwind CSS**
+- 🐧 Big believer in **Linux** and open source—if it’s hackable, I’ll tweak it
+- 🤖 *Yes, I actually review AI-generated code 😏 (including this README!)*
+- 🌱 Currently learning **Go** and expanding my backend toolbox
+- ⚡ Obsessed with optimization, system security, and automation
+- 🤝 Open to collaborating with startups and ambitious teams
+- 👨‍👩‍👧‍👦 Proud family guy, comedy lover, and low-key terminal ninja
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +32,7 @@ A passionate engineer with 4 years of experience building scalable, production-r
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61dafb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-292929?style=flat&logo=githubactions&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=flat&logo=azuredevops&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -43,11 +50,10 @@ A passionate engineer with 4 years of experience building scalable, production-r
 <details>
   <summary>⚡ Fun Facts & Interests</summary>
   <ul>
-    <li>Currently learning Go and looking for new challenges</li>
-    <li>Love collaborating with startups and innovative teams</li>
-    <li>Comedy in any form is my jam!</li>
-    <li>Proud family man</li>
+    <li>Currently deep-diving into Go (and making friends with goroutines)</li>
+    <li>I love collaborating with startups and building from the ground up</li>
+    <li>Comedy in any form is my jam—code reviews included!</li>
+    <li>Secret talent: Explaining architecture with whiteboard cartoons</li>
+    <li>If I could refactor life, meetings would be async</li>
   </ul>
 </details>
-
----
