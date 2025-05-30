@@ -12,7 +12,6 @@ Solving business problems, making apps faster, and automating what most people d
 
 - 👨‍💻 Specializing in **Spring Boot**, **Node.js (NestJS, Express)**, **Next.js**, **React.js**
 - 🛠️ My toolkit: **PostgreSQL**, **Docker**, **Linux**, **CI/CD**, **DevOps**, **Tailwind CSS**
-- 🐧 Big believer in **Linux** and open source—if it’s hackable, I’ll tweak it
 - 🤖 *Yes, I actually review AI-generated code 😏 (including this README!)*
 - 🌱 Currently learning **Go** and expanding my backend toolbox
 - ⚡ Obsessed with optimization, system security, and automation
