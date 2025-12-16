@@ -16,7 +16,7 @@ Solving business problems, making apps faster, and automating what most people d
 - 🌱 Currently learning **Network Fundementals** and expanding my backend toolbox
 - ⚡ Obsessed with optimization, system security, and automation
 - 🤝 Open to collaborating with startups and ambitious teams
-- 👨‍👩‍👧‍👦 Proud family guy, comedy lover, and low-key terminal ninja
+- 👨‍👩‍👧‍👦 Proud family guy, comedy lover, and low-key gamer
 
 ---
 
